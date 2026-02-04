@@ -6,6 +6,8 @@
 
 [https://github.com/vietphan1995/undertaker.git](https://github.com/vietphan1995/undertaker.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:undertaker_project&body=left_your_idea)
+
 Undertaker is an application software in death ceremony booking.
 
 Undertaker helps you finding and booking a death ceremony fit your requirements like script/material packages, prices, budget, culture, religion, belief, … Undertaker prevents negative and wrong think about your death ceremony and social impact.
@@ -15,6 +17,8 @@ Undertaker reduces climate change problem by managing services, products, human,
 ![image.png](image.png)
 
 ![image.png](image%201.png)
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
